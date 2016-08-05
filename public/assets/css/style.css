@@ -6786,13 +6786,13 @@ h6 {
 
 @media screen and (min-width: 768px) {
   .header-main .logo a {
-    top: -30px;
+    top: -40px;
     -webkit-transform: scale(1);
         -ms-transform: scale(1);
             transform: scale(1); }
   .header-main .sticky-menu .logo a,
   .header-main .nav-down .logo a {
-    top: -53px;
+    top: -43px;
     margin-top: 0;
     -webkit-transform: scale(0.6);
         -ms-transform: scale(0.6);
@@ -7110,7 +7110,8 @@ h6 {
 
 .banner {
   background: white;
-  height: 500px; }
+  height: 500px;
+  max-height: 100% !important;}
   @media screen and (min-width: 768px) {
     .banner {
       height: 950px; } }

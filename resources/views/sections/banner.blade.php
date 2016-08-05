@@ -63,7 +63,7 @@
                     rotatexin:90 ;
                     durationin: 3500;
                   ">
-            action
+            Pridaj sa
         </h2>
         <h2 class="ls-l bannertext01 italic01 layercontent04"
             data-ls="
@@ -71,7 +71,7 @@
                     scalexin:9;
                     durationin: 4000;
                   ">
-            starts
+            k nám
         </h2>
         <h4 class="ls-l bannertext02 layercontent05"
             data-ls="

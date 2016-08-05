@@ -1,25 +1,25 @@
 <!-- header -->
 <header class="header-main">
 
-    <div class="header-upper">
-        <div class="container">
-            <div class="row">
-                <ul>
-                    <li>
-                        <a href="">
-                            Signup/login
-                        </a>
-                    </li>
-                    <li>
-                        <a href="shopcart.html">
-                            <i class="fa fa-shopping-cart"></i>
-                            <span>cart(<span class="cartitems">0</span>)</span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
+    {{--<div class="header-upper">--}}
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<ul>--}}
+                    {{--<li>--}}
+                        {{--<a href="">--}}
+                            {{--Signup/login--}}
+                        {{--</a>--}}
+                    {{--</li>--}}
+                    {{--<li>--}}
+                        {{--<a href="shopcart.html">--}}
+                            {{--<i class="fa fa-shopping-cart"></i>--}}
+                            {{--<span>cart(<span class="cartitems">0</span>)</span>--}}
+                        {{--</a>--}}
+                    {{--</li>--}}
+                {{--</ul>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</div>--}}
     <div class="header-lower clearfix">
         <div class="container">
             <div class="row">
@@ -44,7 +44,7 @@
                                 <ul class="nav navbar-nav menu-bar">
                                     <li>
                                         <a href="index.html" class="active">
-                                            Home
+                                            Domov
                                             <span></span>
                                             <span></span>
                                             <span></span>
@@ -53,7 +53,7 @@
                                     </li>
                                     <li>
                                         <a href="about.html">
-                                            about
+                                            O nás
                                             <span></span>
                                             <span></span>
                                             <span></span>
@@ -62,7 +62,7 @@
                                     </li>
                                     <li>
                                         <a >
-                                            gallery
+                                            Galéria
                                             <span></span>
                                             <span></span>
                                             <span></span>
