@@ -1,0 +1,17 @@
+@extends('layouts.master')
+
+@section('content')
+    @include('sections/banner')
+    @include('sections/about')
+    @include('sections/latest_results')
+    @include('sections/match_schedule')
+    @include('sections/booking_ticket')
+    @include('sections/lastest_video')
+    @include('sections/lastest_news')
+    @include('sections/club_history')
+    @include('sections/players')
+    @include('sections/gallery')
+    @include('sections/social_media')
+    @include('sections/awards')
+    @include('sections/product')
+@endsection

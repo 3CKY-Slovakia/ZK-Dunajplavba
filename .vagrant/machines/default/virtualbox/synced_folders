@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/zk-dunajplavba":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/zk-dunajplavba","hostpath":"C:/wamp/ZK-Dunajplavba","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/wamp/ZK-Dunajplavba","disabled":false,"__vagrantfile":true}}}
